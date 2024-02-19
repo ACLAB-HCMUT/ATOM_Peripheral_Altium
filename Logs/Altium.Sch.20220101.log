@@ -1,0 +1,13 @@
+20:55:23.403 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+20:55:23.503 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 206 ms 
+20:55:23.559 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+20:55:45.445 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+20:55:45.445 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+20:55:45.445 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+20:55:46.175 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Init: 337 ms 
+20:55:46.175 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Finish: 10 ms 
+20:55:46.175 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Painter: Total: 29 ms, Count: 24, Avg: 1 ms 
+20:55:46.175 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Msg: Total: 9 ms, Count: 41, Avg: 0 ms 
+20:55:46.196 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Touching: 19 ms 
+20:55:46.196 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): NYIYXMMD 
+20:55:46.196 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 

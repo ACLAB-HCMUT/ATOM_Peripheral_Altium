@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P5-2
+Removed Pin From Net: NetName=GND Pin=P8-2
+Change Component Footprint: Designator=P1 Old Footprint=HDR/Header/4/BOX/SMD New Footprint=HDR/Terminal/4
+Change Component Footprint: Designator=P2 Old Footprint=HDR/Header/4/BOX/SMD New Footprint=HDR/Terminal/4
+Change Component Footprint: Designator=P3 Old Footprint=HDR/Header/4/BOX/SMD New Footprint=HDR/Terminal/4
+Change Component Footprint: Designator=P4 Old Footprint=HDR/Header/4/BOX/SMD New Footprint=HDR/Terminal/4
+Change Component Footprint: Designator=P5 Old Footprint=HDR/Header/4/BOX/SMD New Footprint=HDR/Terminal/4
+Change Component Footprint: Designator=P6 Old Footprint=HDR/Header/4/BOX/SMD New Footprint=HDR/Terminal/4
+Change Component Footprint: Designator=P7 Old Footprint=HDR/Header/4/BOX/SMD New Footprint=HDR/Terminal/4
+Change Component Footprint: Designator=P8 Old Footprint=HDR/Header/4/BOX/SMD New Footprint=HDR/Terminal/4
+Change Net Name : Old Net Name=GND New Net Name=VCC
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=GND Pin=P8-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetLabel1 Pin=P7-3
+Added Net: Name=NetLabel1

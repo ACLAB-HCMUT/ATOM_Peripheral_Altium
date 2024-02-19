@@ -1,0 +1,8 @@
+00:29:57.350 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove Free Documents 
+00:29:57.523 [Warn] Altium.Sch.Base.MessageBus.MessageBus`1: Total 98 ms -> Altium.Sch.Base.MessageBus.Messages.ProjectClosed clients:2 
+00:29:57.856 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+00:29:58.041 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] SCH.ClosingDocument.PreProcess: 1828 ms 
+00:30:01.669 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+00:30:01.692 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] SCH.ClosingDocument.PostProcess: 370 ms 
+00:30:02.694 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Administrator\AppData\Roaming\Altium\Altium Designer {0ADAEA9B-2456-46BC-A619-64C897D4A648}\Advsch.MMsdft (objects:38) 
+00:30:02.788 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Administrator\AppData\Roaming\Altium\Altium Designer {0ADAEA9B-2456-46BC-A619-64C897D4A648}\Advsch.dft (objects:38) 
