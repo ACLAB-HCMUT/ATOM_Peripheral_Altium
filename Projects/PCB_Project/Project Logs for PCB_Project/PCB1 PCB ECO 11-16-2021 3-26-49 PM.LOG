@@ -1,0 +1,36 @@
+Added Component: Designator=IC1(KTT0005B)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM2596SX-ADJ/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm2596sx-adjnopb/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm2596"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM2596SX-ADJ/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LM2596SX-ADJNOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM2596SX-ADJ-NOPB?qs=X1J7HmVL2ZGDNERsF5YBdQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=L1(B82477G4333M000)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "B82477G4333M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b82477g4333m000/epcos-tdk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/B82477G4333M000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B82477G4333M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-5
+Added Pin To Net: NetName=GND Pin=IC1-6
+Added Pin To Net: NetName=GND Pin=IC1-7
+Added Pin To Net: NetName=GND Pin=IC1-8
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBR1_1 Pin=IC1-1
+Added Net: Name=NetBR1_1
+Added Net: Name=NetBR1_3
+Added Net: Name=NetBR1_4
+Added Pin To Net: NetName=NetC2_1 Pin=IC1-4
+Added Pin To Net: NetName=NetC2_1 Pin=L1-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetD1_1 Pin=IC1-2
+Added Pin To Net: NetName=NetD1_1 Pin=L1-1
+Added Net: Name=NetD1_1
+Added Class: Name=10lab2altium
+Added Room: Name=10lab2altium
