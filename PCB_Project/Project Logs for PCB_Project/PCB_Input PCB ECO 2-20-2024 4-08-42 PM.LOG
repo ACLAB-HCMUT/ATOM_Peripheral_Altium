@@ -1,0 +1,3 @@
+Added Component: Designator=*(SPGA48x11 - duplicate)
+Added Pin To Net: NetName=In2 Pin=*-4
+Added Member To Class: ClassName=SCH_Input Member=Component * CR

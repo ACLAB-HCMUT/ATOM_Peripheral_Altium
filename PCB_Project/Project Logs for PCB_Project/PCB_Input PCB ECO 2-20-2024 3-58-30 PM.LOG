@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=SW B-1
+Removed Pin From Net: NetName=In2 Pin=SW B-2
+Removed Member From Class: ClassName=SCH_Input Member=SW B
+Add Pin To Net: Unknown Pin: Pin *-4
+Add Class Member: Failed to add class member : Component * CR
+Added Room: Name=SCH_Input
