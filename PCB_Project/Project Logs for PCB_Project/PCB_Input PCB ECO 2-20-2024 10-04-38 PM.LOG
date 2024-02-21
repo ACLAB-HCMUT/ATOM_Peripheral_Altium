@@ -1,0 +1,4 @@
+Added Component: Designator=CRW1(SPGA48x11 - duplicate)
+Added Pin To Net: NetName=In1 Pin=CRW1-4
+Add Pin To Net: Unknown Pin: Pin R3-2
+Added Member To Class: ClassName=SCH_Input Member=Component CRW1

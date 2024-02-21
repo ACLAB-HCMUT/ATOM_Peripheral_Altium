@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VCC Pin=R3-mm
+Removed Pin From Net: NetName=GND Pin=SW A-1
+Removed Pin From Net: NetName=In1 Pin=SW A-2
+Removed Member From Class: ClassName=SCH_Input Member=SW A
+Change Component Comment : Designator=* Old Comment=CR New Comment=
+Change Component Designator: OldDesignator=* NewDesignator=CRW2
+Add Component: Footprint Not Found SPGA48x11 - duplicate
+Add Pin To Net: Unknown Pin: Pin CRW1-4
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Class Member: Failed to add class member : Component CRW1
+Added Member To Class: ClassName=SCH_Input Member=Component J Grove
