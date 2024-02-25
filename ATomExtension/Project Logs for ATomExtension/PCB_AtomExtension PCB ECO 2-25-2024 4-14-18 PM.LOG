@@ -1,0 +1,11 @@
+Added Component: Designator=U1(SPGA48x11)
+Added Pin To Net: NetName=G21/SCL Pin=U1-1
+Added Pin To Net: NetName=G25/SDA Pin=U1-2
+Added Pin To Net: NetName=Vcc Pin=U1-3
+Added Pin To Net: NetName=Gnd Pin=U1-4
+Added Pin To Net: NetName=G22/TX Pin=U1-6
+Added Pin To Net: NetName=G19/RX Pin=U1-7
+Added Pin To Net: NetName=G23/NEC Pin=U1-8
+Added Pin To Net: NetName=G33/ADC Pin=U1-9
+Added Member To Class: ClassName=SCH_ATOMExtension Member=Component J2 GPIO
+Added Member To Class: ClassName=SCH_ATOMExtension Member=Component U1 AtomIC

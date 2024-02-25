@@ -1,0 +1,13 @@
+Add Component: Footprint Not Found SEEED_110990030
+Add Component: Footprint Not Found SEEED_110990030
+Add Component: Footprint Not Found SEEED_110990030
+Added Net: Name=G19/RX
+Added Net: Name=G21/SCL
+Added Net: Name=G22/TX
+Added Net: Name=G23/NEC
+Added Net: Name=G25/SDA
+Added Net: Name=G33/ADC
+Added Net: Name=Gnd
+Added Net: Name=Vcc
+Added Class: Name=SCH_ATOMExtension
+Added Room: Name=SCH_ATOMExtension

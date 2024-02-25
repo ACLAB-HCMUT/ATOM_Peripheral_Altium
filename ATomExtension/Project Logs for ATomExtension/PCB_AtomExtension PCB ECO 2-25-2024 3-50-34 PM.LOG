@@ -1,0 +1,28 @@
+Add Component: Footprint Not Found SEEED_110990030
+Add Component: Footprint Not Found SEEED_110990030
+Add Component: Footprint Not Found SEEED_110990030
+Add Pin To Net: Unknown Pin: Pin GPIO-1
+Add Pin To Net: Unknown Pin: Pin GPIO-2
+Add Pin To Net: Unknown Pin: Pin GPIO-3
+Add Pin To Net: Unknown Pin: Pin GPIO-4
+Add Pin To Net: Unknown Pin: Pin I2C-1
+Add Pin To Net: Unknown Pin: Pin I2C-2
+Add Pin To Net: Unknown Pin: Pin I2C-3
+Add Pin To Net: Unknown Pin: Pin I2C-4
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin UART-1
+Add Pin To Net: Unknown Pin: Pin UART-2
+Add Pin To Net: Unknown Pin: Pin UART-3
+Add Pin To Net: Unknown Pin: Pin UART-4
+Add Class Member: Failed to add class member : Component GPIO Grove
+Add Class Member: Failed to add class member : Component I2C Grove
+Add Class Member: Failed to add class member : Component U1 AtomIC
+Add Class Member: Failed to add class member : Component UART Grove
+Added Room: Name=SCH_ATOMExtension
