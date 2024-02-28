@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=In1 Pin=P?-1
+Removed Pin From Net: NetName=In2 Pin=P?-2
+Removed Pin From Net: NetName=VCC Pin=P?-3
+Removed Pin From Net: NetName=GND Pin=P?-4
+Removed Member From Class: ClassName=SCH_Input Member=P?
+Added Component: Designator=J1(HDR/Header/4/BOX/WHITE)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=In1 Pin=J1-1
+Added Pin To Net: NetName=In2 Pin=J1-2
+Added Pin To Net: NetName=VCC Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Member To Class: ClassName=SCH_Input Member=Component J1 Grove
+Added Room: Name=SCH_Input

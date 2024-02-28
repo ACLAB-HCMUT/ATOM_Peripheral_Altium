@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=J1 Old Footprint=SEEED_110990030 New Footprint=HDR/Header/4/2mm/BOX/SMD
+Change component parameters: Designator = "J1" ("J1"); Footprint = "SEEED_110990030"; UniqueID = "\QVFJJMJP" ("\QVFJJMJP")
+Change component parameters (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=I2c

@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=P.C Old Footprint=HDR/Header/4/2mm/BOX New Footprint=HDR/HW4-SMD-2-0
+Change Component Footprint: Designator=P.B Old Footprint=HDR/Header/4/BOX New Footprint=HDR/HW4-SMD-2-0
+Change Component Footprint: Designator=P.A Old Footprint=HDR/Header/4/BOX/RED New Footprint=HDR/HW4-SMD-2-0
+Change Component Comment : Designator=P.B Old Comment=GPIO New Comment=Header 4
+Change Component Comment : Designator=P.A Old Comment=I2C New Comment=Header 4
+Change Component Comment : Designator=P.C Old Comment=UART New Comment=Header 4
+Added Room: Name=SCH_ATOMExtension

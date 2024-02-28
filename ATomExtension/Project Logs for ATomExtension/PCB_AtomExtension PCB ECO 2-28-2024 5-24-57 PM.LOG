@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator= NewDesignator=U1
+Added Component: Designator=P?(HDR/Header/4/BOX)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=SCH_ATOMExtension Member=Component P? Header 4
+Added Room: Name=SCH_ATOMExtension

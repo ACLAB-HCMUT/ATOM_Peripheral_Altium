@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=G21/SCL Pin=J1-1
+Removed Pin From Net: NetName=G25/SDA Pin=J1-2
+Removed Pin From Net: NetName=Vcc Pin=J1-3
+Removed Pin From Net: NetName=Gnd Pin=J1-4
+Removed Pin From Net: NetName=G33/ADC Pin=J2-1
+Removed Pin From Net: NetName=G23/NEC Pin=J2-2
+Removed Pin From Net: NetName=Vcc Pin=J2-3
+Removed Pin From Net: NetName=Gnd Pin=J2-4
+Removed Pin From Net: NetName=G19/RX Pin=J3-1
+Removed Pin From Net: NetName=G22/TX Pin=J3-2
+Removed Pin From Net: NetName=Vcc Pin=J3-3
+Removed Pin From Net: NetName=Gnd Pin=J3-4
+Removed Member From Class: ClassName=SCH_ATOMExtension Member=J1
+Removed Member From Class: ClassName=SCH_ATOMExtension Member=J2
+Removed Member From Class: ClassName=SCH_ATOMExtension Member=J3
+Change Component Designator: OldDesignator= NewDesignator=U1
+Added Component: Designator=P.A(HDR/Header/4/BOX/RED)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P.B(HDR/Header/4/BOX)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P.C(HDR/Header/4/2mm/BOX)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=G21/SCL Pin=P.A-1
+Added Pin To Net: NetName=G25/SDA Pin=P.A-2
+Added Pin To Net: NetName=Vcc Pin=P.A-3
+Added Pin To Net: NetName=Gnd Pin=P.A-4
+Added Pin To Net: NetName=G33/ADC Pin=P.B-1
+Added Pin To Net: NetName=G23/NEC Pin=P.B-2
+Added Pin To Net: NetName=Vcc Pin=P.B-3
+Added Pin To Net: NetName=Gnd Pin=P.B-4
+Added Pin To Net: NetName=G19/RX Pin=P.C-1
+Added Pin To Net: NetName=G22/TX Pin=P.C-2
+Added Pin To Net: NetName=Vcc Pin=P.C-3
+Added Pin To Net: NetName=Gnd Pin=P.C-4
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=SCH_ATOMExtension Member=Component P.A I2C
+Added Member To Class: ClassName=SCH_ATOMExtension Member=Component P.B GPIO
+Added Member To Class: ClassName=SCH_ATOMExtension Member=Component P.C UART
+Added Room: Name=SCH_ATOMExtension
