@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=CRW1-5
+Removed Pin From Net: NetName=GND Pin=CRW2-5
+Change Component Designator: OldDesignator= NewDesignator=J
+Change Component Designator: OldDesignator= R2 NewDesignator=R2
+Added Member To Class: ClassName=SCH_Input Member=Component J Grove
+Added Member To Class: ClassName=SCH_Input Member=Component R2 20K
+Added Room: Name=SCH_Input
