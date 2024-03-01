@@ -1,0 +1,34 @@
+Change Component Designator: OldDesignator= NewDesignator=U1
+Change Component Designator: OldDesignator=P.A NewDesignator=P.A 1
+Added Component: Designator=P.A 2(SEEED_110990030)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=583576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Seeed Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=583576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "110990030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/110990030/Seeed%20Technology%20Co.,%20Ltd/view-part/583576/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P.A 3(SEEED_110990030)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=583576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Seeed Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=583576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "110990030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/110990030/Seeed%20Technology%20Co.,%20Ltd/view-part/583576/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=G21/SCL Pin=P.A 2-1
+Added Pin To Net: NetName=G25/SDA Pin=P.A 2-2
+Added Pin To Net: NetName=Vcc Pin=P.A 2-3
+Added Pin To Net: NetName=Gnd Pin=P.A 2-4
+Added Pin To Net: NetName=G21/SCL Pin=P.A 3-1
+Added Pin To Net: NetName=G25/SDA Pin=P.A 3-2
+Added Pin To Net: NetName=Vcc Pin=P.A 3-3
+Added Pin To Net: NetName=Gnd Pin=P.A 3-4
+Added Member To Class: ClassName=SCH_ATOMExtension Member=Component P.A 2 I2C
+Added Member To Class: ClassName=SCH_ATOMExtension Member=Component P.A 3 I2C
+Added Member To Class: ClassName=SCH_ATOMExtension Member=Component U1 AtomIC
+Added Room: Name=SCH_ATOMExtension
