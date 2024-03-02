@@ -1,0 +1,25 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Change Component Comment : Designator= Old Comment=Inductor New Comment=22uH
+Change Component Designator: OldDesignator= NewDesignator=L?
+Change Component Designator: OldDesignator= NewDesignator=P?
+Change Component Designator: OldDesignator= NewDesignator=P?
+Change Component Designator: OldDesignator= NewDesignator=U?
+Added Component: Designator=P?(HDR/Header/4/2mm/BOX/SMD)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=COM1 Pin=P?-1
+Added Pin To Net: NetName=5V Pin=P?-2
+Added Pin To Net: NetName=NO2 Pin=P?-3
+Added Pin To Net: NetName=NO1 Pin=P?-4
+Added Member To Class: ClassName=boostConverter Member=Component L? 22uH
+Added Member To Class: ClassName=boostConverter Member=Component P? Header 5
+Added Member To Class: ClassName=boostConverter Member=Component P? Header 4
+Added Member To Class: ClassName=boostConverter Member=Component U? MT3608
+Added Room: Name=boostConverter

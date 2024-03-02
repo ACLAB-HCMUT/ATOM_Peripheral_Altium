@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P? Old Footprint=HDR/Header/4/BOX/SMD New Footprint=HDR/Header/4/2mm/BOX/SMD
+Added Member To Class: ClassName=boostConverter Member=Component P? Header 5
+Added Member To Class: ClassName=boostConverter Member=Component P? Header 4
+Added Room: Name=boostConverter

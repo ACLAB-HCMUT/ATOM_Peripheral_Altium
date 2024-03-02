@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=COM1 Pin=-1
+Removed Pin From Net: NetName=5V Pin=-2
+Removed Pin From Net: NetName=NO2 Pin=-3
+Removed Pin From Net: NetName=NO1 Pin=-4
+Change Component Footprint: Designator= Old Footprint=HDR/Header/4/2mm/BOX/SMD New Footprint=HDR/Header/4/BOX/SMD
+Change Component Designator: OldDesignator= NewDesignator=P?
+Change Component Designator: OldDesignator= NewDesignator=U?
+Added Pin To Net: NetName=NO1 Pin=P?-1
+Added Pin To Net: NetName=NO2 Pin=P?-2
+Added Pin To Net: NetName=5V Pin=P?-3
+Added Pin To Net: NetName=COM1 Pin=P?-4
+Added Member To Class: ClassName=boostConverter Member=Component P? Header 5
+Added Member To Class: ClassName=boostConverter Member=Component P? Header 4
+Added Member To Class: ClassName=boostConverter Member=Component P? Header 5
+Added Room: Name=boostConverter
