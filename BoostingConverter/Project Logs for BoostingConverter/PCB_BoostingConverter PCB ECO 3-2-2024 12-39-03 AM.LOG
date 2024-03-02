@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=343 NewDesignator=P?
+Added Component: Designator=U1(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MT3608/Aerosemi+Technology+Co.%252C+Ltd/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Aerosemi Technology Co., Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MT3608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MT3608/Aerosemi+Technology+Co.%252C+Ltd/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=U1-1
+Added Pin To Net: NetName=COM1 Pin=U1-2
+Added Pin To Net: NetName=NetR2_1 Pin=U1-3
+Added Pin To Net: NetName=NetR1_1 Pin=U1-4
+Added Pin To Net: NetName=5V Pin=U1-5
+Added Member To Class: ClassName=boostConverter Member=Component P? Header 5
+Added Member To Class: ClassName=boostConverter Member=Component U1 MT3608
+Added Room: Name=boostConverter
