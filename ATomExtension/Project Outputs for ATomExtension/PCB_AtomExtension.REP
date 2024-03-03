@@ -2,18 +2,37 @@
 FileName = PCB_AtomExtension.GBR
 AutoAperture = True
 *************************************************************
-Generating : Keep-Out Layer
-      File : PCB_AtomExtension.GKO
+Generating : Bottom Pad Master
+      File : PCB_AtomExtension_Pads_Bot.gbr
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB_AtomExtension_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
 *************************************************************
 
 *************************************************************
 Generating : Bottom Paste
-      File : PCB_AtomExtension.GBP
+      File : PCB_AtomExtension_Paste_Bot.gbr
 
     Adding Layer      : Bottom Paste
 
@@ -26,8 +45,18 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Overlay
+      File : PCB_AtomExtension_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Top Paste
-      File : PCB_AtomExtension.GTP
+      File : PCB_AtomExtension_Paste_Top.gbr
 
     Adding Layer      : Top Paste
 
@@ -40,8 +69,34 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Pad Master
+      File : PCB_AtomExtension_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PCB_AtomExtension_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Bottom Layer
-      File : PCB_AtomExtension.GBL
+      File : PCB_AtomExtension_Copper_Signal_Bot.gbr
 
     Adding Layer      : Bottom Layer
 
@@ -57,52 +112,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : PCB_AtomExtension.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : PCB_AtomExtension.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D18
-    D19
-    D20
-    D21
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PCB_AtomExtension.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
-      File : PCB_AtomExtension.GTL
+      File : PCB_AtomExtension_Copper_Signal_Top.gbr
 
     Adding Layer      : Top Layer
 
@@ -119,8 +130,26 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Solder
+      File : PCB_AtomExtension_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
-      File : PCB_AtomExtension.GBS
+      File : PCB_AtomExtension_Soldermask_Bot.gbr
 
     Adding Layer      : Bottom Solder
 
@@ -137,37 +166,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : PCB_AtomExtension.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D18
-    D19
-    D20
-    D21
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : PCB_AtomExtension.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-*************************************************************
-
-*************************************************************
 Generating : Drill Drawing
-      File : PCB_AtomExtension.GD1
+      File : PCB_AtomExtension_Drawing_1.gbr
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -181,7 +181,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Drill Guide
-      File : PCB_AtomExtension.GG1
+      File : PCB_AtomExtension_Drillmap_1.gbr
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -194,7 +194,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Profile
-      File : PCB_AtomExtension.GM
+      File : PCB_AtomExtension_Profile.gbr
 
 
 Used DCodes :
