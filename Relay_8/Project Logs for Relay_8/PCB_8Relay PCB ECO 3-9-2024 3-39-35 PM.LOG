@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=RL1 Pin=RL1-4
+Removed Pin From Net: NetName=+5 Pin=RL1-5
+Removed Pin From Net: NetName=RL2 Pin=RL2-4
+Removed Pin From Net: NetName=+5 Pin=RL2-5
+Removed Pin From Net: NetName=RL4 Pin=RL4-4
+Removed Pin From Net: NetName=+5 Pin=RL4-5
+Removed Pin From Net: NetName=RL3 Pin=RL?-4
+Removed Pin From Net: NetName=+5 Pin=RL?-5
+Removed Member From Class: ClassName=SCH_8Relay Member=P1
+Removed Member From Class: ClassName=SCH_8Relay Member=P2
+Removed Member From Class: ClassName=SCH_8Relay Member=P3
+Removed Member From Class: ClassName=SCH_8Relay Member=RL1
+Removed Member From Class: ClassName=SCH_8Relay Member=RL2
+Removed Member From Class: ClassName=SCH_8Relay Member=RL4
+Removed Member From Class: ClassName=SCH_8Relay Member=XA?
+Change Component Footprint: Designator=P? Old Footprint=HDR/Terminal/3/4mm New Footprint=HDR/Terminal/4/RA
+Change Component Comment : Designator=P? Old Comment=Header 3 New Comment=Header 4
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found VALCON_VH396-03S-010
+Add Component: Footprint Not Found VALCON_VH396-03S-010
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-2
+Add Class Member: Failed to add class member : Component * Relay_932_SH_AH
+Add Class Member: Failed to add class member : Component * Relay_932_SH_AH
+Add Class Member: Failed to add class member : Component J3 VH396-03S-010
+Add Class Member: Failed to add class member : Component J4 VH396-03S-010
+Added Room: Name=SCH_8Relay

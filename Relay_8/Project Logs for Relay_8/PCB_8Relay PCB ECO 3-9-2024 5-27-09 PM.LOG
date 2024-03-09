@@ -1,0 +1,50 @@
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found PCBComponent_1
+Add Pin To Net: Unknown Pin: Pin Relay1-1
+Add Pin To Net: Unknown Pin: Pin Relay1-2
+Add Pin To Net: Unknown Pin: Pin Relay1-3
+Add Pin To Net: Unknown Pin: Pin Relay1-4
+Add Pin To Net: Unknown Pin: Pin Relay2-1
+Add Pin To Net: Unknown Pin: Pin Relay2-2
+Add Pin To Net: Unknown Pin: Pin Relay2-3
+Add Pin To Net: Unknown Pin: Pin Relay2-4
+Add Pin To Net: Unknown Pin: Pin Relay3-1
+Add Pin To Net: Unknown Pin: Pin Relay3-2
+Add Pin To Net: Unknown Pin: Pin Relay3-3
+Add Pin To Net: Unknown Pin: Pin Relay3-4
+Add Pin To Net: Unknown Pin: Pin Relay4-1
+Add Pin To Net: Unknown Pin: Pin Relay4-2
+Add Pin To Net: Unknown Pin: Pin Relay4-3
+Add Pin To Net: Unknown Pin: Pin Relay4-4
+Add Pin To Net: Unknown Pin: Pin Relay5-1
+Add Pin To Net: Unknown Pin: Pin Relay5-2
+Add Pin To Net: Unknown Pin: Pin Relay5-3
+Add Pin To Net: Unknown Pin: Pin Relay5-4
+Add Pin To Net: Unknown Pin: Pin Relay6-1
+Add Pin To Net: Unknown Pin: Pin Relay6-2
+Add Pin To Net: Unknown Pin: Pin Relay6-3
+Add Pin To Net: Unknown Pin: Pin Relay6-4
+Add Pin To Net: Unknown Pin: Pin Relay7-1
+Add Pin To Net: Unknown Pin: Pin Relay7-2
+Add Pin To Net: Unknown Pin: Pin Relay7-3
+Add Pin To Net: Unknown Pin: Pin Relay7-4
+Add Pin To Net: Unknown Pin: Pin Relay8-1
+Add Pin To Net: Unknown Pin: Pin Relay8-2
+Add Pin To Net: Unknown Pin: Pin Relay8-3
+Add Pin To Net: Unknown Pin: Pin Relay8-4
+Added Member To Class: ClassName=SCH_8Relay Member=Component P? Header 4
+Add Class Member: Failed to add class member : Component Relay1 Relay_932_SH_AH
+Add Class Member: Failed to add class member : Component Relay2 Relay_932_SH_AH
+Add Class Member: Failed to add class member : Component Relay3 Relay_932_SH_AH
+Add Class Member: Failed to add class member : Component Relay4 Relay_932_SH_AH
+Add Class Member: Failed to add class member : Component Relay5 Relay_932_SH_AH
+Add Class Member: Failed to add class member : Component Relay6 Relay_932_SH_AH
+Add Class Member: Failed to add class member : Component Relay7 Relay_932_SH_AH
+Add Class Member: Failed to add class member : Component Relay8 Relay_932_SH_AH
+Added Room: Name=SCH_8Relay

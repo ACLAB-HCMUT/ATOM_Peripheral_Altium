@@ -1,0 +1,51 @@
+Add Component: Footprint Not Found Relay_932
+Add Component: Footprint Not Found Relay_932
+Add Component: Footprint Not Found Relay_932
+Add Component: Footprint Not Found Relay_932
+Add Component: Footprint Not Found Relay_932
+Add Component: Footprint Not Found Relay_932
+Add Component: Footprint Not Found Relay_932
+Add Component: Footprint Not Found Relay_932
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-2
+Add Pin To Net: Unknown Pin: Pin *-2
+Add Pin To Net: Unknown Pin: Pin *-2
+Add Pin To Net: Unknown Pin: Pin *-2
+Add Pin To Net: Unknown Pin: Pin *-2
+Add Pin To Net: Unknown Pin: Pin *-2
+Add Pin To Net: Unknown Pin: Pin *-2
+Add Pin To Net: Unknown Pin: Pin *-2
+Added Pin To Net: NetName=Net*_3 Pin=P1-2
+Added Net: Name=Net*_3
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_3" already exists
+Added Pin To Net: NetName=Net*_4 Pin=P8-3
+Added Net: Name=Net*_4
+Add Net: Net with name "Net*_4" already exists
+Add Net: Net with name "Net*_4" already exists
+Add Net: Net with name "Net*_4" already exists
+Add Net: Net with name "Net*_4" already exists
+Add Net: Net with name "Net*_4" already exists
+Add Net: Net with name "Net*_4" already exists
+Add Net: Net with name "Net*_4" already exists
+Add Class Member: Failed to add class member : Component * Relay_932_SH_AH
+Add Class Member: Failed to add class member : Component * Relay_932_SH_AH
+Add Class Member: Failed to add class member : Component * Relay_932_SH_AH
+Add Class Member: Failed to add class member : Component * Relay_932_SH_AH
+Add Class Member: Failed to add class member : Component * Relay_932_SH_AH
+Add Class Member: Failed to add class member : Component * Relay_932_SH_AH
+Add Class Member: Failed to add class member : Component * Relay_932_SH_AH
+Add Class Member: Failed to add class member : Component * Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component P? Header 4
