@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=D5 Old Footprint=DO-35 (SOD27 ) New Footprint=DO-214AC (SMA)
+Change Component Footprint: Designator=D6 Old Footprint=DO-35 (SOD27 ) New Footprint=DO-214AC (SMA)
+Change Component Footprint: Designator=D7 Old Footprint=DO-35 (SOD27 ) New Footprint=DO-214AC (SMA)
+Change Component Footprint: Designator=D8 Old Footprint=DO-35 (SOD27 ) New Footprint=DO-214AC (SMA)
+Added Member To Class: ClassName=SCH_8Relay Member=Component P? Header 4
