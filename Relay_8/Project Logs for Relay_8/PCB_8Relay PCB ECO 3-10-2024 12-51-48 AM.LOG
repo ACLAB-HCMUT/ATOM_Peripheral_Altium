@@ -1,0 +1,56 @@
+Change Component Designator: OldDesignator=* NewDesignator=RE8
+Change Component Designator: OldDesignator=*? NewDesignator=RE1
+Change Component Designator: OldDesignator=*? NewDesignator=RE2
+Change Component Designator: OldDesignator=*? NewDesignator=RE3
+Change Component Designator: OldDesignator=*? NewDesignator=RE4
+Change Component Designator: OldDesignator=*? NewDesignator=RE5
+Change Component Designator: OldDesignator=*? NewDesignator=RE6
+Change Component Designator: OldDesignator=*? NewDesignator=RE7
+Change Net Name : Old Net Name=Net*?_3 New Net Name=NetP6_2
+Change Net Name : Old Net Name=Net*?_4 New Net Name=NetP6_3
+Change Net Name : Old Net Name=Net*_3 New Net Name=NetP8_2
+Change Net Name : Old Net Name=Net*_4 New Net Name=NetP8_3
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=RE1-3
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=RE1-4
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP2_2 Pin=P2-2
+Added Pin To Net: NetName=NetP2_2 Pin=RE2-3
+Added Net: Name=NetP2_2
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=NetP2_3 Pin=RE2-4
+Added Net: Name=NetP2_3
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=RE3-3
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Pin To Net: NetName=NetP3_3 Pin=RE3-4
+Added Net: Name=NetP3_3
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetP4_2 Pin=RE4-3
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetP4_3 Pin=P4-3
+Added Pin To Net: NetName=NetP4_3 Pin=RE4-4
+Added Net: Name=NetP4_3
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Pin To Net: NetName=NetP5_2 Pin=RE5-3
+Added Net: Name=NetP5_2
+Added Pin To Net: NetName=NetP5_3 Pin=P5-3
+Added Pin To Net: NetName=NetP5_3 Pin=RE5-4
+Added Net: Name=NetP5_3
+Added Pin To Net: NetName=NetP7_2 Pin=P7-2
+Added Pin To Net: NetName=NetP7_2 Pin=RE7-3
+Added Net: Name=NetP7_2
+Added Pin To Net: NetName=NetP7_3 Pin=P7-3
+Added Pin To Net: NetName=NetP7_3 Pin=RE7-4
+Added Net: Name=NetP7_3
+Added Member To Class: ClassName=SCH_8Relay Member=Component P? Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component RE2 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component RE3 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component RE4 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component RE5 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component RE6 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component RE7 Relay_932_SH_AH
+Added Room: Name=SCH_8Relay
