@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P8 Old Footprint=HDR/Header/4/VH New Footprint=HDR/Terminal/4
+Added Member To Class: ClassName=SCH_8Relay Member=Component C5 0.1m
+Added Member To Class: ClassName=SCH_8Relay Member=Component P? Header 4
+Added Room: Name=SCH_8Relay

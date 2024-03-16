@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=Net*_2 Pin=P3-2
+Add Component: Footprint Not Found RELAY932
+Add Component: Footprint Not Found RELAY932
+Add Component: Footprint Not Found RELAY932
+Add Component: Footprint Not Found RELAY932
+Add Component: Footprint Not Found RELAY932
+Add Component: Footprint Not Found RELAY932
+Added Component: Designator=*(RELAY932)
+Add Component: Footprint Not Found RELAY932
+Added Pin To Net: NetName=+5 Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=RL1 Pin=*-4
+Added Pin To Net: NetName=RL2 Pin=*-4
+Added Pin To Net: NetName=RL3 Pin=*-4
+Added Pin To Net: NetName=RL4 Pin=*-4
+Added Pin To Net: NetName=RL5 Pin=*-4
+Added Pin To Net: NetName=RL6 Pin=*-4
+Added Pin To Net: NetName=RL7 Pin=*-4
+Added Pin To Net: NetName=RL8 Pin=*-4
+Added Pin To Net: NetName=Net*_2 Pin=P7-2
+Add Net: Net with name "Net*_2" already exists
+Add Net: Net with name "Net*_2" already exists
+Add Net: Net with name "Net*_2" already exists
+Add Net: Net with name "Net*_2" already exists
+Add Net: Net with name "Net*_2" already exists
+Add Net: Net with name "Net*_2" already exists
+Add Net: Net with name "Net*_2" already exists
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_3" already exists
+Added Member To Class: ClassName=SCH_8Relay Member=Component * Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component * Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component * Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component * Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component * Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component * Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component * Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component * Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component P? Header 4
+Added Room: Name=SCH_8Relay

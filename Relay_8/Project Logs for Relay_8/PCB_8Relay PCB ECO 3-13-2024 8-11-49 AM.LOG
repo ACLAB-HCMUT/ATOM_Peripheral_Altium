@@ -1,0 +1,53 @@
+Change Component Designator: OldDesignator= NewDesignator=L1
+Change Component Designator: OldDesignator= NewDesignator=L2
+Change Component Designator: OldDesignator= NewDesignator=L3
+Change Component Designator: OldDesignator= NewDesignator=L4
+Change Component Designator: OldDesignator= NewDesignator=L5
+Change Component Designator: OldDesignator= NewDesignator=L6
+Change Component Designator: OldDesignator= NewDesignator=L7
+Change Component Designator: OldDesignator= NewDesignator=L8
+Change Component Designator: OldDesignator= NewDesignator=P1
+Change Component Designator: OldDesignator= NewDesignator=P2
+Change Component Designator: OldDesignator= NewDesignator=P3
+Change Component Designator: OldDesignator= NewDesignator=P4
+Change Component Designator: OldDesignator= NewDesignator=P5
+Change Component Designator: OldDesignator= NewDesignator=P6
+Change Component Designator: OldDesignator= NewDesignator=P7
+Change Component Designator: OldDesignator= NewDesignator=P8
+Change Component Designator: OldDesignator= NewDesignator=P?
+Change Component Designator: OldDesignator= NewDesignator=P?
+Change Component Designator: OldDesignator= NewDesignator=RE1
+Change Component Designator: OldDesignator= NewDesignator=RE2
+Change Component Designator: OldDesignator= NewDesignator=RE3
+Change Component Designator: OldDesignator= NewDesignator=RE4
+Change Component Designator: OldDesignator= NewDesignator=RE5
+Change Component Designator: OldDesignator= NewDesignator=RE6
+Change Component Designator: OldDesignator= NewDesignator=RE7
+Change Component Designator: OldDesignator= NewDesignator=RE8
+Added Member To Class: ClassName=SCH_8Relay Member=Component L1 Led
+Added Member To Class: ClassName=SCH_8Relay Member=Component L2 Led
+Added Member To Class: ClassName=SCH_8Relay Member=Component L3 Led
+Added Member To Class: ClassName=SCH_8Relay Member=Component L4 Led
+Added Member To Class: ClassName=SCH_8Relay Member=Component L5 Led
+Added Member To Class: ClassName=SCH_8Relay Member=Component L6 Led
+Added Member To Class: ClassName=SCH_8Relay Member=Component L7 Led
+Added Member To Class: ClassName=SCH_8Relay Member=Component L8 Led
+Added Member To Class: ClassName=SCH_8Relay Member=Component P1 Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component P2 Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component P3 Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component P4 Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component P5 Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component P6 Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component P7 Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component P8 Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component P? Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component P? Header 5
+Added Member To Class: ClassName=SCH_8Relay Member=Component RE1 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component RE2 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component RE3 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component RE4 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component RE5 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component RE6 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component RE7 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component RE8 Relay_932_SH_AH
+Added Room: Name=SCH_8Relay
