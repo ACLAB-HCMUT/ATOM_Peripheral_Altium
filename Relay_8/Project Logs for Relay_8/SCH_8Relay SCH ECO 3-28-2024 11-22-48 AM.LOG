@@ -1,0 +1,4 @@
+Remove Pin=R1-2 From Net=Tran1
+Remove Pin=R2-2 From Net=Tran2
+Remove Pin=R3-2 From Net=Tran3
+Remove Pin=R4-2 From Net=Tran4
