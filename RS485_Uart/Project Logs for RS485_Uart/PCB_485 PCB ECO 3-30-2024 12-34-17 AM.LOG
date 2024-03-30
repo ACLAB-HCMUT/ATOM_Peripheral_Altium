@@ -1,0 +1,4 @@
+Change Component Footprint: Designator= Old Footprint=HDR/Header/4/2mm/BOX/SMD New Footprint=HDR/Header/4/2mm/BOX/RA
+Change Component Designator: OldDesignator= NewDesignator=P?
+Added Member To Class: ClassName=SCH_RS485 Member=Component P? Header 4
+Added Room: Name=SCH_RS485
