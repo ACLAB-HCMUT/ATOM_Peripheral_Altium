@@ -82,6 +82,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QMXUFDSY
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Relay_8\Design Rule Check - PCB_8Relay.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

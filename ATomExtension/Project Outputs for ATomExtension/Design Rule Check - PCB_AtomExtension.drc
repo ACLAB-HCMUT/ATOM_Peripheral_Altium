@@ -1,0 +1,66 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\I2C\PCB_AtomExtension.PcbDoc
+Date     : 4/23/2024
+Time     : 4:51:00 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=31.496mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad Free-2(4078.7mil,1140.59mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad Free-2(4078.7mil,510.67mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad Free-2(4393.662mil,1140.59mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad Free-2(4393.662mil,510.67mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad Free-2(4708.622mil,1140.59mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad Free-2(4708.622mil,510.67mil) on Multi-Layer Actual Hole Size = 157.48mil
+Rule Violations :6
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (2.48mil < 10mil) Between Arc (4836.654mil,1130mil) on Top Overlay And Pad Free-2(4708.622mil,1140.59mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [2.48mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad Free-2(4078.7mil,1140.59mil) on Multi-Layer And Track (3457.244mil,1172.48mil)(3969.056mil,1172.48mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad Free-2(4078.7mil,1140.59mil) on Multi-Layer And Track (3969.056mil,463.82mil)(3969.056mil,1172.48mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad Free-2(4078.7mil,510.67mil) on Multi-Layer And Track (3457.244mil,463.82mil)(3969.056mil,463.82mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad Free-2(4078.7mil,510.67mil) on Multi-Layer And Track (3969.056mil,463.82mil)(3969.056mil,1172.48mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+Rule Violations :5
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (4.113mil < 10mil) Between Text "3.3V" (3923.871mil,384.055mil) on Top Overlay And Track (3457.244mil,463.82mil)(3969.056mil,463.82mil) on Top Overlay Silk Text to Silk Clearance [4.113mil]
+   Violation between Silk To Silk Clearance Constraint: (7.108mil < 10mil) Between Text "ADC" (3526.295mil,378.767mil) on Top Overlay And Track (3457.244mil,463.82mil)(3969.056mil,463.82mil) on Top Overlay Silk Text to Silk Clearance [7.108mil]
+Rule Violations :2
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+PCB Health Issue Category : Reference Point Outside the Component Area
+   Reference point outside the component area: Component -AtomIC (3713.15mil,1467.756mil) on Top Layer
+Issues :1
+
+
+Violations Detected : 13
+Waived Violations : 0
+PCB Health Issues : 1
+Time Elapsed        : 00:00:02
