@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [RS485_Uart.PrjPcb]
+   Generated File[SCH_RS485_1.TXT]
+   Generated File[SCH_RS485_1.LDP]
+   Generated File[SCH_RS485_1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:44:08 PM On 4/3/2024

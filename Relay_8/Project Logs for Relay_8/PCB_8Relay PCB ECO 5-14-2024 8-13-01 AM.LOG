@@ -1,0 +1,47 @@
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Net_3 Pin=-3
+Added Component: Designator=RL2(RELAY932)
+Added Component: Designator=RL3(RELAY932)
+Added Component: Designator=RL4(RELAY932)
+Added Component: Designator=(RELAY932)
+Added Pin To Net: NetName=+5 Pin=-1
+Added Pin To Net: NetName=Net_2 Pin=-2
+Added Pin To Net: NetName=Net_3 Pin=-3
+Added Pin To Net: NetName=RL1 Pin=-4
+Added Pin To Net: NetName=+5 Pin=RL2-1
+Added Pin To Net: NetName=Net_2 Pin=RL2-2
+Added Pin To Net: NetName=Net_3 Pin=RL2-3
+Added Pin To Net: NetName=RL2 Pin=RL2-4
+Added Pin To Net: NetName=+5 Pin=RL3-1
+Added Pin To Net: NetName=RL3 Pin=RL3-4
+Added Pin To Net: NetName=+5 Pin=RL4-1
+Added Pin To Net: NetName=RL4 Pin=RL4-4
+Add Net: Net with name "Net_2" already exists
+Add Net: Net with name "Net_2" already exists
+Add Net: Net with name "Net_2" already exists
+Add Net: Net with name "Net_3" already exists
+Add Net: Net with name "Net_3" already exists
+Add Net: Net with name "Net_3" already exists
+Added Member To Class: ClassName=SCH_8Relay Member=Component RL2 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component RL3 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component RL4 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component  Transistor NPN
+Added Member To Class: ClassName=SCH_8Relay Member=Component 
+Added Member To Class: ClassName=SCH_8Relay Member=Component  Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component  R
+Added Member To Class: ClassName=SCH_8Relay Member=Component  R4
+Added Member To Class: ClassName=SCH_8Relay Member=Component  Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_8Relay Member=Component  R
+Added Member To Class: ClassName=SCH_8Relay Member=Component  Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component  Header 5
+Added Member To Class: ClassName=SCH_8Relay Member=Component  R
+Added Member To Class: ClassName=SCH_8Relay Member=Component  Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component  Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component  Transistor NPN
+Added Member To Class: ClassName=SCH_8Relay Member=Component  Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component  R
+Added Member To Class: ClassName=SCH_8Relay Member=Component  R
+Added Member To Class: ClassName=SCH_8Relay Member=Component  R
+Added Member To Class: ClassName=SCH_8Relay Member=Component  Transistor NPN
+Added Member To Class: ClassName=SCH_8Relay Member=Component  Transistor NPN
+Added Room: Name=SCH_8Relay

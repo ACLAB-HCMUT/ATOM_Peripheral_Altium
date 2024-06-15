@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=U1 Old Footprint=RELAY932 New Footprint=ST/TSSOP20
+Change Component Comment: Designator=RL2 Old Comment= New Comment=Relay_932_SH_AH
+Change Component Comment: Designator=U1 Old Comment=Relay_932_SH_AH New Comment=STM32F030F4P6
+Change Component Designator: OldDesignator=P1 NewDesignator=
+Change Component Designator: OldDesignator=P2 NewDesignator=
+Change Component Designator: OldDesignator=P3 NewDesignator=
+Change Component Designator: OldDesignator=P4 NewDesignator=
+Change Component Designator: OldDesignator=P? NewDesignator=
+Change Component Designator: OldDesignator=P? NewDesignator=
+Change Component Designator: OldDesignator=Q1 NewDesignator=
+Change Component Designator: OldDesignator=Q2 NewDesignator=
+Change Component Designator: OldDesignator=Q3 NewDesignator=
+Change Component Designator: OldDesignator=Q4 NewDesignator=
+Change Component Designator: OldDesignator=R1 NewDesignator=
+Change Component Designator: OldDesignator=R2 NewDesignator=
+Change Component Designator: OldDesignator=R3 NewDesignator=
+Change Component Designator: OldDesignator=R4 NewDesignator=
+Change Component Designator: OldDesignator=R5 NewDesignator=
+Change Component Designator: OldDesignator=R6 NewDesignator=
+Change Component Designator: OldDesignator=R7 NewDesignator=
+Change Component Designator: OldDesignator=R8 NewDesignator=
+Change Component Designator: OldDesignator=RL1 NewDesignator=
+Add Pin To Net: Pin=U1-4 Old Net=NetU1_4 New Net=NRST

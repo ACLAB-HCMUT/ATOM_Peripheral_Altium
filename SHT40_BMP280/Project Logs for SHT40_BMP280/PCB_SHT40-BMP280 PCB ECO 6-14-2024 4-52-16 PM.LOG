@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator= NewDesignator=P1
+Change Component Designator: OldDesignator=BMP280 NewDesignator=U?
+Added Component: Designator=C5(C 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(C 1206)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Member To Class: ClassName=Sch_SHT40-BMP280 Member=Component C5 100n
+Added Member To Class: ClassName=Sch_SHT40-BMP280 Member=Component C? C
+Added Room: Name=Sch_SHT40-BMP280

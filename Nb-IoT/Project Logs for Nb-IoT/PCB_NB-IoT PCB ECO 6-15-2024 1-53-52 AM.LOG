@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=U? Old Footprint=XCVR_SIM7080G New Footprint=SOT-363-6
+Change Component Comment : Designator=U? Old Comment=SIM7080G New Comment=SMF05C
+Change component parameters: Designator = "U?" ("U?"); Footprint = "XCVR_SIM7080G"; UniqueID = "\BMTUTZIS" ("\BMTUTZIS")
+Change component parameters (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J(GCT_SIM8060-6-0-14-00-A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SIM8060-6-0-14-00-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SIM8060-6-0-14-00-A/Global%20Connector%20Technology/view-part/3214904/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sch_NB-IoT Member=Component J SIM8060-6-0-14-00-A
+Added Room: Name=Sch_NB-IoT
