@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=NRST Pin=U1-4
+Removed Pin From Net: NetName=Vout Pin=U1-5
+Removed Pin From Net: NetName=GND Pin=U1-15
+Removed Pin From Net: NetName=Vout Pin=U1-16
+Removed Pin From Net: NetName=SCL Pin=U1-17
+Removed Pin From Net: NetName=SDA Pin=U1-18
+Removed Pin From Net: NetName=DIO Pin=U1-19
+Removed Pin From Net: NetName=CLK Pin=U1-20
+Change Component DesignItemId : Designator=U1 Old DesignItemId=STM32F030F4P6 New DesignItemId=Relay_932_SH_AH
+Change Footprint: Footprint Not Found RELAY932
+Change Component Comment : Designator=RL2 Old Comment=Relay_932_SH_AH New Comment=
+Change Component Comment : Designator=U1 Old Comment=STM32F030F4P6 New Comment=Relay_932_SH_AH
+Change Component Designator: OldDesignator= NewDesignator=P1
+Change Component Designator: OldDesignator= NewDesignator=P2
+Change Component Designator: OldDesignator= NewDesignator=P3
+Change Component Designator: OldDesignator= NewDesignator=P4
+Change Component Designator: OldDesignator= NewDesignator=P?
+Change Component Designator: OldDesignator= NewDesignator=P?
+Change Component Designator: OldDesignator= NewDesignator=Q1
+Change Component Designator: OldDesignator= NewDesignator=Q2
+Change Component Designator: OldDesignator= NewDesignator=Q3
+Change Component Designator: OldDesignator= NewDesignator=Q4
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=R2
+Change Component Designator: OldDesignator= NewDesignator=R3
+Change Component Designator: OldDesignator= NewDesignator=R4
+Change Component Designator: OldDesignator= NewDesignator=R5
+Change Component Designator: OldDesignator= NewDesignator=R6
+Change Component Designator: OldDesignator= NewDesignator=R7
+Change Component Designator: OldDesignator= NewDesignator=R8
+Change Component Designator: OldDesignator= NewDesignator=RL1
+Change Component Description : Designator=U1 Old Description=IC MCU 32BIT 16KB FLASH 20TSSOP New Description=
+Change Component Library : Designator=U1 Old Library=chipfc_altium_libs.IntLib New Library=Relay_932_SL_AH.SchLib
+Change Component Library : Designator=RL2 Old Library=MT3608.IntLib New Library=Relay_932_SL_AH.SchLib
+Change Component Library : Designator=RL4 Old Library=MT3608.IntLib New Library=Relay_932_SL_AH.SchLib
+Change component parameters: Designator = "U1" ("U1"); Footprint = "ST/TSSOP20"; UniqueID = "\QKQTVEFQ" ("\QKQTVEFQ")
+Added Member To Class: ClassName=SCH_8Relay Member=Component P1 Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component P2 Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component P3 Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component P4 Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component P? Header 5
+Added Member To Class: ClassName=SCH_8Relay Member=Component P? Header 4
+Added Member To Class: ClassName=SCH_8Relay Member=Component Q1 Transistor NPN
+Added Member To Class: ClassName=SCH_8Relay Member=Component Q2 Transistor NPN
+Added Member To Class: ClassName=SCH_8Relay Member=Component Q3 Transistor NPN
+Added Member To Class: ClassName=SCH_8Relay Member=Component Q4 Transistor NPN
+Added Member To Class: ClassName=SCH_8Relay Member=Component R1 R
+Added Member To Class: ClassName=SCH_8Relay Member=Component R2 R
+Added Member To Class: ClassName=SCH_8Relay Member=Component R3
+Added Member To Class: ClassName=SCH_8Relay Member=Component R4
+Added Member To Class: ClassName=SCH_8Relay Member=Component R5 R
+Added Member To Class: ClassName=SCH_8Relay Member=Component R6 R
+Added Member To Class: ClassName=SCH_8Relay Member=Component R7 R
+Added Member To Class: ClassName=SCH_8Relay Member=Component R8 R
+Added Member To Class: ClassName=SCH_8Relay Member=Component RL1 Relay_932_SH_AH
+Added Room: Name=SCH_8Relay

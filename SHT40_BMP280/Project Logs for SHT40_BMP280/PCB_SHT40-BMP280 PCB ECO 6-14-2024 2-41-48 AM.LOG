@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=BMP280-1
+Removed Pin From Net: NetName=3.3V Pin=BMP280-2
+Removed Pin From Net: NetName=SDA Pin=BMP280-3
+Removed Pin From Net: NetName=SCL Pin=BMP280-4
+Removed Pin From Net: NetName=GND Pin=BMP280-5
+Removed Pin From Net: NetName=3.3V Pin=BMP280-6
+Removed Pin From Net: NetName=GND Pin=BMP280-7
+Removed Pin From Net: NetName=3.3V Pin=BMP280-8
+Added Component: Designator=C?(C 1206)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XDCR_BMP280
+Add Pin To Net: Unknown Pin: Pin U?-1
+Add Pin To Net: Unknown Pin: Pin U?-2
+Add Pin To Net: Unknown Pin: Pin U?-3
+Add Pin To Net: Unknown Pin: Pin U?-4
+Add Pin To Net: Unknown Pin: Pin U?-5
+Add Pin To Net: Unknown Pin: Pin U?-6
+Add Pin To Net: Unknown Pin: Pin U?-7
+Add Pin To Net: Unknown Pin: Pin U?-8
+Added Member To Class: ClassName=Sch_SHT40-BMP280 Member=Component C? C
+Add Class Member: Failed to add class member : Component U? BMP280
+Added Room: Name=Sch_SHT40-BMP280

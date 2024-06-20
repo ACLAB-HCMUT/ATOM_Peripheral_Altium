@@ -9,4 +9,8 @@ From  : Project [Relay_8.PrjPcb]
 Files Generated   : 3
 Documents Printed : 0
 
+<<<<<<< HEAD
 Finished Output Generation At 4:54:19 PM On 4/2/2024
+=======
+Finished Output Generation At 10:37:10 PM On 4/3/2024
+>>>>>>> 086f05f611e4eabd8aa2a084d90faab6d215b326
