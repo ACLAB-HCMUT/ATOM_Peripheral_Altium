@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=3.3V Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=3.3V Pin=L1-2
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=3.3V Pin=R19-2
+Removed Pin From Net: NetName=GND Pin=R20-1
+Removed Pin From Net: NetName=NetR16_2 Pin=U3-2
+Removed Pin From Net: NetName=GND Pin=U3-5
+Removed Pin From Net: NetName=+5 Pin=U3-7
+Removed Pin From Net: NetName=GND Pin=U3-9
+Removed Member From Class: ClassName=Sch_NB-IoT Member=L1
+Removed Member From Class: ClassName=Sch_NB-IoT Member=R19
+Removed Member From Class: ClassName=Sch_NB-IoT Member=R20
+Change Component Footprint: Designator=D1 Old Footprint=DO-214AC (SMA) New Footprint=DO-214AC (SMA) L
+Change Component Footprint: Designator=U3 Old Footprint=SOIC127P600X170-9N New Footprint=SOT95P280X110-6N
+Change Component Comment : Designator=C11 Old Comment=10u New Comment=100n
+Change Component Comment : Designator=R18 Old Comment=100k New Comment=22k
+Change Component Comment : Designator=R17 Old Comment=100k New Comment=68k
+Change Component Comment : Designator=C9 Old Comment=100n New Comment=10u
+Change Component Comment : Designator=C10 Old Comment=100n New Comment=10u
+Change Component Comment : Designator=U3 Old Comment=MP1584EN New Comment=LM2734YMK/NOPB
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SOIC127P600X170-9N"; UniqueID = "\HSIGZBBN" ("\HSIGZBBN")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM2734YMK/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LM2734YMK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23-THN-6 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LM2734YMK/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM2734YMK/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(C 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C13(C 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L?(IND_MWSA0518_525418)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=+5 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetR16_2 Pin=U3-4
+Added Pin To Net: NetName=+5 Pin=U3-5
+Added Pin To Net: NetName=+3.3 Pin=C12-1
+Added Pin To Net: NetName=+3.3 Pin=C13-1
+Added Pin To Net: NetName=+3.3 Pin=L?-2
+Added Pin To Net: NetName=+3.3 Pin=R17-2
+Added Net: Name=+3.3
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=U3-1
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=D1-2
+Added Pin To Net: NetName=NetC11_2 Pin=L?-1
+Added Pin To Net: NetName=NetC11_2 Pin=U3-6
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=R18-2
+Added Pin To Net: NetName=NetR17_1 Pin=U3-3
+Added Net: Name=NetR17_1
+Added Member To Class: ClassName=Sch_NB-IoT Member=Component C12 10u
+Added Member To Class: ClassName=Sch_NB-IoT Member=Component C13 100n
+Added Member To Class: ClassName=Sch_NB-IoT Member=Component L? Inductor
+Added Room: Name=Sch_NB-IoT

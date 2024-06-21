@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator= NewDesignator=J
+Added Component: Designator=R19(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R20(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCL Pin=R19-1
+Added Pin To Net: NetName=1.8V Pin=R19-2
+Added Pin To Net: NetName=SDA Pin=R20-1
+Added Pin To Net: NetName=1.8V Pin=R20-2
+Added Member To Class: ClassName=Sch_NB-IoT Member=Component R19 1000
+Added Member To Class: ClassName=Sch_NB-IoT Member=Component R20 1000
+Added Room: Name=Sch_NB-IoT
