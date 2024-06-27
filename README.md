@@ -33,7 +33,7 @@ This project classified 4 types of peripheral : Input, Output, Sensors, Extensio
   * Cat-M: Uplink: 1119Kbps Downlink: 589Kbps
   * NB-IoT: Uplink: 150Kbps Downlink: 136Kbps
 *Protocol Support:
-   *TCP/UDP/HTTP/HTTPS/TLS/DTLS/PING/LWM2M/COAP/MQTT and other communication protocols
+  *TCP/UDP/HTTP/HTTPS/TLS/DTLS/PING/LWM2M/COAP/MQTT and other communication protocols
   * Card slot specification: Nano
 
 
