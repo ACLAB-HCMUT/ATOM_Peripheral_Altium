@@ -1,0 +1,34 @@
+Added Component: Designator=Q1(SOT-23)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT-23)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=G23/NEC Pin=Q1-1
+Added Pin To Net: NetName=Gnd Pin=Q1-2
+Added Pin To Net: NetName=RL1 Pin=Q1-3
+Added Pin To Net: NetName=G33/ADC Pin=Q2-1
+Added Pin To Net: NetName=Gnd Pin=Q2-2
+Added Pin To Net: NetName=RL2 Pin=Q2-3
+Added Pin To Net: NetName=G22/TX Pin=Q3-1
+Added Pin To Net: NetName=Gnd Pin=Q3-2
+Added Pin To Net: NetName=RL3 Pin=Q3-3
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component Q1 Transistor NPN
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component Q2 Transistor NPN
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component Q3 Transistor NPN
+Added Room: Name=SCH_COMB-ATOM-RELAY

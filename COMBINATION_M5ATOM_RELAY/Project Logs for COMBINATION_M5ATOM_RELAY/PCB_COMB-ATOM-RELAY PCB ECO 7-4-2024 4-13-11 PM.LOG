@@ -1,0 +1,30 @@
+Added Component: Designator=PS?(CONV_HLK-5M05)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/HLK-5M05/Hi-link/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hi-link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HLK-5M05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HLK-5M05/Hi-link/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=RL?(RELAY932)
+Added Component: Designator=RL?(RELAY932)
+Added Component: Designator=U?(SPGA48x11)
+Added Pin To Net: NetName=G19/RX Pin=U?-7
+Added Net: Name=G19/RX
+Added Pin To Net: NetName=G21/SCL Pin=U?-1
+Added Net: Name=G21/SCL
+Added Pin To Net: NetName=G22/TX Pin=U?-6
+Added Net: Name=G22/TX
+Added Pin To Net: NetName=G23/NEC Pin=U?-8
+Added Net: Name=G23/NEC
+Added Pin To Net: NetName=G25/SDA Pin=U?-2
+Added Net: Name=G25/SDA
+Added Pin To Net: NetName=G33/ADC Pin=U?-9
+Added Net: Name=G33/ADC
+Added Pin To Net: NetName=Gnd Pin=U?-4
+Added Net: Name=Gnd
+Added Pin To Net: NetName=Vcc Pin=U?-3
+Added Net: Name=Vcc
+Added Class: Name=SCH_COMB-ATOM-RELAY
+Added Room: Name=SCH_COMB-ATOM-RELAY

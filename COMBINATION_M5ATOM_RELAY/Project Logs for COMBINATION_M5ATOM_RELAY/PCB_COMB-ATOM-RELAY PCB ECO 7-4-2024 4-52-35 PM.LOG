@@ -1,0 +1,74 @@
+Removed Member From Class: ClassName=SCH_COMB-ATOM-RELAY Member=RL?
+Added Component: Designator=D1(DO-214AC (SMA))
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(DO-214AC (SMA))
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(DO-214AC (SMA))
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=H101(SCREW/3.0/6.0)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "NO-BOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT PRICE"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=H?(SCREW/3.0/6.0)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "NO-BOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT PRICE"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=RL1(RELAY932)
+Added Component: Designator=RL2(RELAY932)
+Added Component: Designator=RL3(RELAY932)
+Added Pin To Net: NetName=+5 Pin=D1-2
+Added Pin To Net: NetName=+5 Pin=D2-2
+Added Pin To Net: NetName=+5 Pin=D3-2
+Added Pin To Net: NetName=+5 Pin=RL1-1
+Added Pin To Net: NetName=+5 Pin=RL2-1
+Added Pin To Net: NetName=+5 Pin=RL3-1
+Added Net: Name=+5
+Added Pin To Net: NetName=AC1 Pin=PS?-1
+Added Net: Name=AC1
+Added Pin To Net: NetName=AC2 Pin=H?-1
+Added Pin To Net: NetName=AC2 Pin=PS?-2
+Added Net: Name=AC2
+Added Pin To Net: NetName=RL1 Pin=D1-1
+Added Pin To Net: NetName=RL1 Pin=RL1-4
+Added Net: Name=RL1
+Added Pin To Net: NetName=RL2 Pin=D2-1
+Added Pin To Net: NetName=RL2 Pin=RL2-4
+Added Net: Name=RL2
+Added Pin To Net: NetName=RL3 Pin=D3-1
+Added Pin To Net: NetName=RL3 Pin=RL3-4
+Added Net: Name=RL3
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component D1
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component D2 D4
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component D3 D4
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component H101 Screw Hole
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component H? Screw Hole
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component RL1 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component RL2 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component RL3 Relay_932_SH_AH
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component U? AtomIC
+Added Room: Name=SCH_COMB-ATOM-RELAY

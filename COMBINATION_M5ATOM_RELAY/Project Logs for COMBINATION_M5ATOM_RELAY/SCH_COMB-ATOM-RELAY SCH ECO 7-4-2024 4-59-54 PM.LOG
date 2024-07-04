@@ -1,0 +1,8 @@
+Remove Pin=Q1-1 From Net=G23/NEC
+Remove Pin=Q1-3 From Net=RL1
+Remove Pin=Q2-1 From Net=G25/SDA
+Remove Pin=Q2-3 From Net=RL2
+Remove Pin=Q3-1 From Net=G22/TX
+Remove Pin=Q3-3 From Net=RL3
+Change Component Designator: OldDesignator=AC1 NewDesignator=H101
+Change Component Designator: OldDesignator=AC2 NewDesignator=H?

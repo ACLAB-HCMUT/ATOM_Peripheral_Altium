@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=G22/TX Pin=U?-6
+Removed Pin From Net: NetName=G19/RX Pin=U?-7
+Removed Pin From Net: NetName=G23/NEC Pin=U?-8
+Removed Pin From Net: NetName=G33/ADC Pin=U?-9
+Added Component: Designator=D?(LED 5MM - GREEN)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=G19/RX Pin=D?-1
+Added Pin To Net: NetName=Gnd Pin=D?-2
+Added Pin To Net: NetName=G22/TX Pin=R1-2
+Added Pin To Net: NetName=G19/RX Pin=R2-2
+Added Pin To Net: NetName=G23/NEC Pin=R3-2
+Added Pin To Net: NetName=G33/ADC Pin=R4-2
+Add Net: Net with name "NetH?_1" already exists
+Add Net: Net with name "NetH?_1" already exists
+Add Net: Net with name "NetH?_1" already exists
+Add Net: Net with name "NetH?_1" already exists
+Add Net: Net with name "NetH?_1" already exists
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U?-6
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U?-7
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U?-8
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U?-9
+Added Net: Name=NetR4_1
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component D? Led
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component H? Screw Hole
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component H? Screw Hole
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component H? Screw Hole
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component H? Screw Hole
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component H? Screw Hole
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component H? Screw Hole
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component R1 R
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component R2 R
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component R3 R
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component R4 R
+Added Room: Name=SCH_COMB-ATOM-RELAY
