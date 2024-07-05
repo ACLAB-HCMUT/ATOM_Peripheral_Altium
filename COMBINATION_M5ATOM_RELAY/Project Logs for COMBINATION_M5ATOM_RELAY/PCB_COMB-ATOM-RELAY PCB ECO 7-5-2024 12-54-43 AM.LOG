@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=G21/SCL Pin=P?-1
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=G25/SDA Pin=P?-2
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=+5 Pin=P?-3
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Gnd Pin=P?-4
+Remove Pin from Net: Failed to remove Pin
+Added Component: Designator=J?(SEEED_110990030)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=583576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Seeed Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=583576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "110990030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/110990030/Seeed%20Technology%20Co.,%20Ltd/view-part/583576/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(SEEED_110990030)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=583576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Seeed Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=583576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "110990030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/110990030/Seeed%20Technology%20Co.,%20Ltd/view-part/583576/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=G21/SCL Pin=J?-1
+Added Pin To Net: NetName=G21/SCL Pin=J?-1
+Added Pin To Net: NetName=G25/SDA Pin=J?-2
+Added Pin To Net: NetName=G25/SDA Pin=J?-2
+Added Pin To Net: NetName=+5 Pin=J?-3
+Added Pin To Net: NetName=+5 Pin=J?-3
+Added Pin To Net: NetName=Gnd Pin=J?-4
+Added Pin To Net: NetName=Gnd Pin=J?-4
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component H? Screw Hole
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component J? Grove
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component J? Grove
+Added Room: Name=SCH_COMB-ATOM-RELAY

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetP?_1 Pin=RL3-2
+Removed Pin From Net: NetName=NetP?_2 Pin=RL3-3
+Add Component: Footprint Not Found HDR/Terminal/2/4mm
+Add Component: Footprint Not Found HDR/Terminal/2/4mm
+Add Pin To Net: Unknown Pin: Pin P?-1
+Add Pin To Net: Unknown Pin: Pin P?-2
+Added Pin To Net: NetName=NetP?_1 Pin=RL2-2
+Added Pin To Net: NetName=NetP?_2 Pin=RL2-3
+Add Net: Net with name "NetP?_1" already exists
+Add Net: Net with name "NetP?_2" already exists
+Add Class Member: Failed to add class member : Component P? Header 2
+Add Class Member: Failed to add class member : Component P? Header 2
+Added Room: Name=SCH_COMB-ATOM-RELAY

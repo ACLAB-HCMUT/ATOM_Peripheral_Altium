@@ -1,0 +1,7 @@
+Add Component: Footprint Not Found HDR/Terminal/2/4mm
+Added Pin To Net: NetName=NetP?_1 Pin=RL3-2
+Added Net: Name=NetP?_1
+Added Pin To Net: NetName=NetP?_2 Pin=RL3-3
+Added Net: Name=NetP?_2
+Add Class Member: Failed to add class member : Component P? Header 2
+Added Room: Name=SCH_COMB-ATOM-RELAY

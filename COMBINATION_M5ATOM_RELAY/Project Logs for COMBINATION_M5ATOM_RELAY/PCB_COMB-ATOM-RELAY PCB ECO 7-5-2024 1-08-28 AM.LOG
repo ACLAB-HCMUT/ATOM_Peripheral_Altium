@@ -1,0 +1,12 @@
+Change component parameters: Designator = "J" ("J"); Footprint = "SEEED_110990030"; UniqueID = "\CDLXLCKD" ("\CDLXLCKD")
+Change component parameters (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=583576"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Seeed Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=583576"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "110990030"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/110990030/Seeed%20Technology%20Co.,%20Ltd/view-part/583576/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component J 110990030
+Added Room: Name=SCH_COMB-ATOM-RELAY

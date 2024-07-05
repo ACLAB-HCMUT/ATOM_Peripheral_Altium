@@ -1,0 +1,53 @@
+Change component parameters: Designator = "J" ("J"); Footprint = "SEEED_110990030"; UniqueID = "\MGRDQJVK" ("\MGRDQJVK")
+Change component parameters (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=583576"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapedacom/parts/110990030/Seeed%20Technology%20Co.,%20Ltd/view-part/583576/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Seeed Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=583576"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "110990030"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/110990030/Seeed%20Technology%20Co.,%20Ltd/view-part/583576/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=H101(SCREW/3.2/7.0/M)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "NO-BOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT PRICE"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=H102(SCREW/3.2/7.0/M)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "NO-BOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT PRICE"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=H103(SCREW/3.2/7.0/M)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "NO-BOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT PRICE"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=H104(SCREW/3.2/7.0/M)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "NO-BOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT PRICE"; Value = "0"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component H101 Screw Hole
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component H102 Screw Hole
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component H103 Screw Hole
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component H104 Screw Hole
+Added Member To Class: ClassName=SCH_COMB-ATOM-RELAY Member=Component P? Header 2
+Added Room: Name=SCH_COMB-ATOM-RELAY
