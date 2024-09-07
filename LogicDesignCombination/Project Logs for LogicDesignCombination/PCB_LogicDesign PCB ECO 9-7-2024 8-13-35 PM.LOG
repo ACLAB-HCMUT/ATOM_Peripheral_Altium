@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=H?-1
+Removed Pin From Net: NetName=NetD2_1 Pin=H?-1
+Removed Pin From Net: NetName=NetD3_1 Pin=H?-1
+Removed Pin From Net: NetName=NetD4_1 Pin=H?-1
+Removed Pin From Net: NetName=NetD5_2 Pin=H?-1
+Removed Pin From Net: NetName=NetD7_2 Pin=H?-1
+Removed Pin From Net: NetName=NetDL19_1 Pin=H?-1
+Removed Pin From Net: NetName=NetDL22_1 Pin=H?-1
+Removed Member From Class: ClassName=Sch_LogicDesign Member=H101
+Removed Member From Class: ClassName=Sch_LogicDesign Member=H?
+Change Net Name : Old Net Name=NetD1_1 New Net Name=AND_OUT1
+Change Net Name : Old Net Name=NetD1_2 New Net Name=AND_IN1
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NOT_OUT
+Change Net Name : Old Net Name=NetD2_2 New Net Name=AND_IN2
+Change Net Name : Old Net Name=NetD3_1 New Net Name=AND_OUT2
+Change Net Name : Old Net Name=NetD3_2 New Net Name=AND_IN3
+Change Net Name : Old Net Name=NetD4_2 New Net Name=AND_IN4
+Change Net Name : Old Net Name=NetD5_1 New Net Name=OR_IN1
+Change Net Name : Old Net Name=NetD5_2 New Net Name=OR_OUT1
+Change Net Name : Old Net Name=NetD6_1 New Net Name=OR_IN2
+Change Net Name : Old Net Name=NetD7_1 New Net Name=OR_IN3
+Change Net Name : Old Net Name=NetD7_2 New Net Name=OR_OUT2
+Change Net Name : Old Net Name=NetD8_1 New Net Name=OR_IN4
+Change Net Name : Old Net Name=NetD9_1 New Net Name=XOR_IN1
+Change Net Name : Old Net Name=NetD11_1 New Net Name=XOR_IN2
+Change Net Name : Old Net Name=NetD13_1 New Net Name=XOR_IN3
+Change Net Name : Old Net Name=NetD14_1 New Net Name=XOR_IN4
+Change Net Name : Old Net Name=NetDL19_1 New Net Name=XOR_OUT1
+Change Net Name : Old Net Name=NetDL22_1 New Net Name=XOR_OUT2
+Added Pin To Net: NetName=IN1 Pin=SW1-2
+Added Pin To Net: NetName=IN1 Pin=SW1-2
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=SW2-2
+Added Pin To Net: NetName=IN2 Pin=SW2-2
+Added Net: Name=IN2
+Added Pin To Net: NetName=IN3 Pin=SW3-2
+Added Pin To Net: NetName=IN3 Pin=SW3-2
+Added Net: Name=IN3
+Added Pin To Net: NetName=IN4 Pin=SW4-2
+Added Pin To Net: NetName=IN4 Pin=SW4-2
+Added Net: Name=IN4
+Added Pin To Net: NetName=IN5 Pin=SW5-2
+Added Pin To Net: NetName=IN5 Pin=SW5-2
+Added Net: Name=IN5
+Added Pin To Net: NetName=IN6 Pin=SW6-2
+Added Pin To Net: NetName=IN6 Pin=SW6-2
+Added Net: Name=IN6
+Added Pin To Net: NetName=NOT_IN1 Pin=D3-1
+Added Pin To Net: NetName=NOT_IN1 Pin=R18-2
+Added Net: Name=NOT_IN1
+Added Pin To Net: NetName=NOT_IN Pin=D1-1
+Added Pin To Net: NetName=NOT_IN Pin=R15-2
+Added Net: Name=NOT_IN
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D1 Diode
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D2 Diode
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D3 Diode
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D4 Diode
+Added Room: Name=Sch_LogicDesign

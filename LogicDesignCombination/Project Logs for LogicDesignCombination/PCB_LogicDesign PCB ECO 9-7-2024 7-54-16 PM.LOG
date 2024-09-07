@@ -1,0 +1,56 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD4_1
+Add Net: Net with name "NetD1_1" already exists
+Add Net: Net with name "NetD3_1" already exists
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D1 Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D2 Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D3 Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D4 Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D? Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D? Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D? Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D? Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D? Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D? Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D? Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D? Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D? Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D? Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D? Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D? Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D? Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D? Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D? Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D? Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D? Led
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component H? Screw Hole
+Added Room: Name=Sch_LogicDesign
