@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NOT_OUT1
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D1 Diode
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D2 Diode
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D3 Diode
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component D4 Diode
+Added Member To Class: ClassName=Sch_LogicDesign Member=Component R9 R
+Added Room: Name=Sch_LogicDesign

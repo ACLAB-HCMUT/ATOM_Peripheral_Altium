@@ -14,12 +14,43 @@ Generating : Bottom Paste
 
 Used DCodes :
     D16
-    D17
-    D56
-    D57
-    D58
+    D18
+    D23
     D59
     D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB_NB-IoT_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D28
+    D38
+    D41
+    D42
+    D43
+    D44
+    D62
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
 *************************************************************
 
 *************************************************************
@@ -43,31 +74,7 @@ Used DCodes :
     D22
     D23
     D24
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : PCB_NB-IoT_Soldermask_Bot.gbr
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D30
-    D31
-    D39
-    D40
-    D41
-    D42
-    D57
-    D61
-    D62
-    D63
-    D64
+    D25
 *************************************************************
 
 *************************************************************
@@ -82,7 +89,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D25
     D26
     D27
     D28
@@ -100,65 +106,8 @@ Used DCodes :
     D40
     D41
     D42
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PCB_NB-IoT_Legend_Bot.gbr
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D12
-    D13
-    D15
-    D65
-    D66
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : PCB_NB-IoT_Legend_Top.gbr
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : PCB_NB-IoT_Copper_Signal_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D16
-    D17
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
+    D43
+    D44
 *************************************************************
 
 *************************************************************
@@ -181,8 +130,7 @@ Used DCodes :
     D22
     D23
     D24
-    D43
-    D44
+    D25
     D45
     D46
     D47
@@ -194,6 +142,71 @@ Used DCodes :
     D53
     D54
     D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB_NB-IoT_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D16
+    D18
+    D23
+    D51
+    D52
+    D53
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_NB-IoT_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D15
+    D72
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB_NB-IoT_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
 *************************************************************
 
 *************************************************************
@@ -202,6 +215,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D67
+    D74
 *************************************************************
 
