@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=J? Old Footprint=HRO_TYPE-C-31-M-12 New Footprint=GCT_USB4125-GF-A-0190_REVA2
+Change Component Comment : Designator=J? Old Comment=TYPE-C-31-M-12 New Comment=USB4125-GF-A-0190_REVA2
+Change component parameters: Designator = "J?" ("J?"); Footprint = "HRO_TYPE-C-31-M-12"; UniqueID = "\ZCIPCSJG" ("\ZCIPCSJG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "No availability data"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USB4125-GF-A-0190/Global%20Connector%20Technology/view-part/6227012/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "USB4125-GF-A-0190"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB4125-GF-A-0190/Global%20Connector%20Technology/view-part/6227012/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=Logic_Or

@@ -1,0 +1,10 @@
+Added Component: Designator=U(SOIC127P600X175-14N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC08D-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC08D-T/NXP%20Semiconductors/view-part/559538/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Logic_Or Member=Component U 74HC08D-T
+Added Room: Name=Logic_Or
