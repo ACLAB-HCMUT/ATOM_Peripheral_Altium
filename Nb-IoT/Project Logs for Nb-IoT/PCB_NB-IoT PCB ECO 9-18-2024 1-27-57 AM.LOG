@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=CON?-6
-Removed Pin From Net: NetName=GND Pin=CON?-8
-Change Component Footprint: Designator=CON? Old Footprint=CONN/USB/MICRO/RA/H New Footprint=CONN/USB/MICRO/RA
-Added Member To Class: ClassName=Sch_NB-IoT Member=Component  SIM7080G
-Added Room: Name=Sch_NB-IoT
