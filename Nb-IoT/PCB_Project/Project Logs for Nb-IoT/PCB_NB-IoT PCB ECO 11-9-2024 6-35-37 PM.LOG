@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=3.3V Pin=-2
+Removed Pin From Net: NetName=+5 Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=+5 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=3.3V Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=3.3V Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=+5 Pin=R16-1
+Removed Pin From Net: NetName=GND Pin=R17-2
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=+5 Pin=U?-2
+Removed Member From Class: ClassName=Sch_NB-IoT Member=C9
+Removed Member From Class: ClassName=Sch_NB-IoT Member=C10
+Removed Member From Class: ClassName=Sch_NB-IoT Member=C11
+Removed Member From Class: ClassName=Sch_NB-IoT Member=C12
+Removed Member From Class: ClassName=Sch_NB-IoT Member=C13
+Removed Member From Class: ClassName=Sch_NB-IoT Member=C14
+Removed Member From Class: ClassName=Sch_NB-IoT Member=C15
+Removed Member From Class: ClassName=Sch_NB-IoT Member=R16
+Removed Member From Class: ClassName=Sch_NB-IoT Member=R17
+Removed Member From Class: ClassName=Sch_NB-IoT Member=R18
+Change Component Footprint: Designator=U? Old Footprint=SOIC127P600X170-9N New Footprint=PCBComponent_1
+Change Component Comment : Designator=U? Old Comment=MP1484EN-LF New Comment=SY8003ADFC
+Change component parameters: Designator = "U?" ("U?"); Footprint = "SOIC127P600X170-9N"; UniqueID = "\MKIWZXXD" ("\MKIWZXXD")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20180301/C178236_15198943889691383935.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "SY8003ADFC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Function"; Value = "Step-down type"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Voltage"; Value = "2.7V~5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "SY8003ADFC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "silergy(???)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "SY8003ADFC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40?~+85?@(TA)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quiescent Current (Iq)"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "DFN-8(2x2)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C178236"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch tube (built-in/external)"; Value = "??"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switching Frequency"; Value = "1MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "SY8003ADFC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Synchronous Rectification"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Topology"; Value = "Step-down"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Member To Class: ClassName=Sch_NB-IoT Member=Component R15 47k
+Added Member To Class: ClassName=Sch_NB-IoT Member=Component  SIM7080G
+Added Room: Name=Sch_NB-IoT

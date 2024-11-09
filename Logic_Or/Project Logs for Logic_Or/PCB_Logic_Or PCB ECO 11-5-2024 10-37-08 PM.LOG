@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=+5 Pin=J?-A9
+Added Pin To Net: NetName=GND Pin=J?-A12
+Added Pin To Net: NetName=+5 Pin=J?-B9
+Added Pin To Net: NetName=GND Pin=J?-B12
+Added Room: Name=Logic_Or
