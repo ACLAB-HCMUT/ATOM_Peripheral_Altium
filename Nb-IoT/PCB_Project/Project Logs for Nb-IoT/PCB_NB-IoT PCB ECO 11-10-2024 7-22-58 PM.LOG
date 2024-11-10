@@ -1,0 +1,11 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Change Component Designator: OldDesignator=C5 NewDesignator=C7
+Added Pin To Net: NetName=+5 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Member To Class: ClassName=Sch_NB-IoT Member=Component C7 33p
+Added Member To Class: ClassName=Sch_NB-IoT Member=Component C10 22p
+Added Member To Class: ClassName=Sch_NB-IoT Member=Component C11 22u
+Added Member To Class: ClassName=Sch_NB-IoT Member=Component C12 22u
+Added Member To Class: ClassName=Sch_NB-IoT Member=Component  SIM7080G
+Added Room: Name=Sch_NB-IoT

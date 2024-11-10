@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+5 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Change Component Designator: OldDesignator=C7 NewDesignator=C5
+Added Member To Class: ClassName=Sch_NB-IoT Member=Component C5 22u
