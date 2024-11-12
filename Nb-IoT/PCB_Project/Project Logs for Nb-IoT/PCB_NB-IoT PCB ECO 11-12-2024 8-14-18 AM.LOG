@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=Net_15 Pin=C6-1
+Added Pin To Net: NetName=Net_16 Pin=C7-1
+Added Pin To Net: NetName=Net_17 Pin=C8-1
+Added Pin To Net: NetName=Net_15 Pin=U1-4
+Added Pin To Net: NetName=Net_16 Pin=U1-5
+Added Pin To Net: NetName=Net_17 Pin=U1-6
+Added Pin To Net: NetName=NetJ_C2 Pin=J-C2
+Added Pin To Net: NetName=NetJ_C2 Pin=R9-1
+Added Net: Name=NetJ_C2
+Added Pin To Net: NetName=NetJ_C3 Pin=J-C3
+Added Pin To Net: NetName=NetJ_C3 Pin=R8-1
+Added Net: Name=NetJ_C3
+Added Pin To Net: NetName=NetJ_C7 Pin=J-C7
+Added Pin To Net: NetName=NetJ_C7 Pin=R7-1
+Added Net: Name=NetJ_C7
+Added Room: Name=Sch_NB-IoT
