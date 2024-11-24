@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=+5 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=3.3V Pin=C10-1
+Removed Pin From Net: NetName=3.3V Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=3.3V Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=3.3V Pin=L?-2
+Removed Pin From Net: NetName=3.3V Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=R19-2
+Removed Pin From Net: NetName=+5 Pin=U?-3
+Removed Pin From Net: NetName=GND Pin=U?-4
+Removed Pin From Net: NetName=+5 Pin=U?-7
+Removed Pin From Net: NetName=GND Pin=U?-8
+Removed Pin From Net: NetName=GND Pin=U?-9
+Removed Member From Class: ClassName=Sch_NB-IoT Member=C5
+Removed Member From Class: ClassName=Sch_NB-IoT Member=C10
+Removed Member From Class: ClassName=Sch_NB-IoT Member=C11
+Removed Member From Class: ClassName=Sch_NB-IoT Member=C12
+Removed Member From Class: ClassName=Sch_NB-IoT Member=L?
+Removed Member From Class: ClassName=Sch_NB-IoT Member=R18
+Removed Member From Class: ClassName=Sch_NB-IoT Member=R19
+Removed Member From Class: ClassName=Sch_NB-IoT Member=U?
+Added Component: Designator=*(PCBComponent_1)
+Added Pin To Net: NetName=+5 Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=3.3V Pin=*-3
+Added Member To Class: ClassName=Sch_NB-IoT Member=Component * Component_1
+Added Member To Class: ClassName=Sch_NB-IoT Member=Component  SIM7080G
+Added Room: Name=Sch_NB-IoT
