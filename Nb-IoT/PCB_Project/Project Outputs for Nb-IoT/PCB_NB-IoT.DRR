@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB_NB-IoT.PcbDoc   11/12/2024  4:56:00 PM
+NCDrill File Report For: PCB_NB-IoT.PcbDoc   11/24/2024  12:38:35 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,9 +7,9 @@ ASCII RoundHoles File : PCB_NB-IoT.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      10mil (0.254mm)                                           Round             42        PTH        6.78inch (172.23mm)
+T1      10mil (0.254mm)                                           Round             36        PTH        6.31inch (160.30mm)
 T2      32mil (0.8mm)                                             Round             4         PTH        0.24inch (6.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              46
+Totals                                                                              40
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00

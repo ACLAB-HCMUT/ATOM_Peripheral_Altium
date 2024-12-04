@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PCB_NB-IoT.GBR   11/12/2024  4:21:23 PM
+Gerber File Extension Report For: PCB_NB-IoT.GBR   11/24/2024  12:38:20 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -14,10 +14,10 @@ Layer Extension     Layer Description
 .gbr                Bottom Solder                           
 .gbr                Bottom Paste                            
 .gbr                Bottom Overlay                          
-.gbr                Keep-Out Layer                          
-.gbr                Top Pad Master                          
-.gbr                Bottom Pad Master                       
-.gbr                Drill Drawing                           
-.gbr                Drill Guide                             
+.gbr                Mechanical 1                            
+.gbr                Mechanical 6                            
+.gbr                Mechanical 13                           
+.gbr                Mechanical 14                           
+.gbr                Mechanical 15                           
 .gbr                Profile                                 
 ------------------------------------------------------------------------------------------
